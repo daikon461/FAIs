@@ -7,5 +7,6 @@ public final class FantasyArmorISS {
  public FantasyArmorISS(){
   NeoForge.EVENT_BUS.register(ArmorSetHandler.class);
   NeoForge.EVENT_BUS.register(CombatAbilities.class);
+  NeoForge.EVENT_BUS.register(ArmorTooltipHandler.class);
  }
 }

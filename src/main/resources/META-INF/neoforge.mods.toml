@@ -3,7 +3,7 @@ loaderVersion="[4,)"
 license="All Rights Reserved"
 [[mods]]
 modId="fantasy_armor_iss"
-version="2.3.0"
+version="2.3.1"
 displayName="Fantasy Armor ISS"
 description="Tiered 2/3/4-piece set bonuses for Fantasy Armor."
 [[dependencies.fantasy_armor_iss]]
