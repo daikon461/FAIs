@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="fantasy_armor_iss"
+version="2.3.0"
+displayName="Fantasy Armor ISS"
+description="Tiered 2/3/4-piece set bonuses for Fantasy Armor."
+[[dependencies.fantasy_armor_iss]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.fantasy_armor_iss]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.fantasy_armor_iss]]
+modId="fantasy_armor"
+type="required"
+versionRange="[1.2.4,)"
+ordering="AFTER"
+side="BOTH"

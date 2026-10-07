@@ -1,0 +1,34 @@
+Fantasy Armor ISS 2.2.0 — 29セット個別設計
+
+2部位=総ボーナスの35%、3部位=+30%、4部位=+35%（累積100%）
+4部位の戦闘発動型固有能力は次工程で追加。
+
+chess_board_knight        戦術防御
+crucible_knight           重戦士
+dark_cover                影の重戦士
+dark_lord                 闇の魔法戦士
+dead_gladiator            狂戦士
+dragonslayer              大型討伐
+eclipse_soldier           万能兵士
+evening_ghost             暗殺
+flesh_of_the_feaster      吸血重戦士
+fog_guard                 要塞
+forgotten_trace           遺物魔法戦士
+gilded_hunt               狩人
+golden_execution          処刑人
+golden_horns              突撃
+grave_sentinel            守護
+hero                      英雄
+lady_maria                血の魔法戦士
+malenia                   決闘
+old_knight                古参守護
+ornstein                  高速槍兵
+redeemer                  聖騎士
+ronin                     浪人
+silver_knight             銀騎士
+spark_of_dawn             聖なる魔法戦士
+sunset_wings              空戦機動
+thief                     盗賊
+twinned                   万能双生
+wandering_wizard          純魔法
+wind_worshipper           風魔法

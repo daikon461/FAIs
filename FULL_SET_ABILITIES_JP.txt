@@ -1,0 +1,33 @@
+Fantasy Armor ISS 2.3.0 — 4/4固有能力
+
+※すべて4部位フルセット時のみ発動。混成では発動しない。
+
+chess_board_knight       王手の構え        trigger=DEFENSE cooldown=8.0s power=25%
+crucible_knight          坩堝の猛進        trigger=OFFENSE cooldown=6.0s power=22%
+dark_cover               深闇の追撃        trigger=OFFENSE cooldown=5.0s power=24%
+dark_lord                暗黒支配         trigger=LOW_HP  cooldown=12.0s power=35%
+dead_gladiator           死闘の昂揚        trigger=KILL    cooldown=6.0s power=30%
+dragonslayer             竜殺しの一撃       trigger=OFFENSE cooldown=8.0s power=40%
+eclipse_soldier          蝕の戦陣         trigger=OFFENSE cooldown=6.0s power=20%
+evening_ghost            黄昏の奇襲        trigger=OFFENSE cooldown=5.0s power=30%
+flesh_of_the_feaster     飽食の血肉        trigger=KILL    cooldown=5.0s power=25%
+fog_guard                霧城の防壁        trigger=DEFENSE cooldown=8.0s power=40%
+forgotten_trace          忘却の残響        trigger=DEFENSE cooldown=7.0s power=25%
+gilded_hunt              黄金狩猟         trigger=OFFENSE cooldown=5.0s power=25%
+golden_execution         黄金処刑         trigger=OFFENSE cooldown=7.0s power=38%
+golden_horns             黄金角の突撃       trigger=OFFENSE cooldown=6.0s power=28%
+grave_sentinel           墓守の誓い        trigger=DEFENSE cooldown=9.0s power=42%
+hero                     英雄の奮起        trigger=LOW_HP  cooldown=11.0s power=40%
+lady_maria               血刃乱舞         trigger=OFFENSE cooldown=5.0s power=28%
+malenia                  不敗の剣舞        trigger=OFFENSE cooldown=4.0s power=25%
+old_knight               古騎士の不屈       trigger=DEFENSE cooldown=9.0s power=38%
+ornstein                 雷槍疾駆         trigger=OFFENSE cooldown=4.5s power=30%
+redeemer                 贖罪の加護        trigger=DEFENSE cooldown=8.0s power=32%
+ronin                    一閃           trigger=OFFENSE cooldown=5.0s power=32%
+silver_knight            銀壁反攻         trigger=DEFENSE cooldown=7.0s power=30%
+spark_of_dawn            暁光共鳴         trigger=LOW_HP  cooldown=10.0s power=34%
+sunset_wings             落日の翼         trigger=OFFENSE cooldown=5.0s power=24%
+thief                    影盗み          trigger=OFFENSE cooldown=4.0s power=22%
+twinned                  双生共鳴         trigger=OFFENSE cooldown=6.0s power=25%
+wandering_wizard         魔力超過         trigger=LOW_HP  cooldown=10.0s power=38%
+wind_worshipper          風神加速         trigger=OFFENSE cooldown=5.0s power=28%
